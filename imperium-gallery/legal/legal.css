@@ -1,0 +1,8 @@
+/* Estilos base para páginas legales */
+body { font-family: Arial, sans-serif; margin: 0; background: #f7f7f7; color: #111; }
+.container { max-width: 1000px; margin: 0 auto; padding: 2rem 1.25rem; }
+.site-header { background: #0b0b0b; color: #fff; padding: 1rem 0; }
+.logo { color: #fff; text-decoration: none; font-weight: 700; }
+.page-header { background: #143d59; color: #fff; padding: 3rem 0; }
+.card { background: #fff; border-radius: 12px; padding: 2rem; box-shadow: 0 10px 30px rgba(0,0,0,0.06); }
+.site-footer { background: #0b0b0b; color: #fff; padding: 2rem 0; }
